@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Optional;
 
 
-public class MoviesHandler extends BaseHttpHandler{
+public class MoviesHandler extends BaseHttpHandler {
 
     private static final int MIN_YEAR = 1888;
     private static final int MAX_TITLE_LENGTH = 100;
